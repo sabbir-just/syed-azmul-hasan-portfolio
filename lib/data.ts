@@ -8,7 +8,7 @@ export const profile = {
   intro:
     "I'm a mathematics graduate working at the intersection of AI research and applied analytics. My background in formal proof and optimization shapes how I approach machine learning: I care as much about why a model works as whether it works. That mindset has led to benchmarking deep learning architectures for deepfake detection, applying physics-informed neural networks to drug delivery systems, and building analytics workflows that turn raw data into decisions. I'm currently preparing for graduate research in AI/ML and I'm looking for teams and programs that value depth over shortcuts.",
   email: "s.a.h.sabbir2001@gmail.com",
-  linkedin: "www.linkedin.com/in/syed-azmul-hasan/",
+  linkedin: "https://www.linkedin.com/in/syed-azmul-hasan?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   github: "https://github.com/sabbir-just",
   portfolioLegacy: "https://syed-azmul-hasan-portfolio.vercel.app/",
   location: "Bangladesh",
